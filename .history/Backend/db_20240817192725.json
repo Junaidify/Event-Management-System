@@ -1,0 +1,57 @@
+{
+  "events": [
+    {
+      "id": "cd3a",
+      "name": "afdafdsa",
+      "date": "2024-08-17",
+      "time": "19:24",
+      "location": "delhi",
+      "description": "find the attachment"
+    },
+    {
+      "date": "2024-08-21",
+      "time": "23:26",
+      "id": "8ae4"
+    },
+    {
+      "id": "56e9",
+      "name": "sdfsgfdsg",
+      "date": "2024-08-06",
+      "time": "19:31",
+      "location": "safdsafd",
+      "description": "safdsafas"
+    },
+    {
+      "id": "3cb1",
+      "name": "dasfd",
+      "date": "2024-08-15",
+      "time": "16:34",
+      "location": "sdafdsaf",
+      "description": "afdsafdsaf"
+    }
+  ],
+  "authentication": [
+    {
+      "id": "8c74",
+      "name": "afdsafds",
+      "username": "safsdaf",
+      "password": "afdsafd",
+      "role": "user"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "b8c1",
+      "eventId": "8ae4",
+      "feedback": "sdafdsafdsafd"
+    },
+    {
+      "id": "4747",
+      "eventId": "8ae4",
+      "feedback": "sdafdsafdsafd"
+    }
+  ],
+  "users": [
+    {""}
+  ]
+}

@@ -1,0 +1,6 @@
+
+export const API_FETCH = {
+    SUCCESS : "API_FETCH_SUCCESS",
+    FAILURE : "API_FETCH_FAILURE"
+    ERROR : 
+}

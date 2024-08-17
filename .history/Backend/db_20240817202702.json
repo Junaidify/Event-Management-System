@@ -1,0 +1,78 @@
+{
+  "events": [
+   
+    {
+      "id": "56e9",
+      "name": "sdfsgfdsg",
+      "date": "2024-08-06",
+      "time": "19:31",
+      "location": "safdsafd",
+      "description": "safdsafas","members": [
+        "8c74",
+        "8c75"
+      ]
+    },
+    {
+      "id": "3cb1",
+      "name": "dasfd",
+      "date": "2024-08-15",
+      "time": "16:34",
+      "location": "sdafdsaf",
+      "description": "afdsafdsaf","members": [
+        "8c74",
+        "8c75"
+      ]
+    },
+    {
+      "id": "e362",
+      "name": "cxzvxzvxzv",
+      "date": "2024-08-22",
+      "time": "22:40",
+      "location": "zvcxzvcxzvc",
+      "description": "xzvczxvcxzvcvz",
+      "members": [
+        "8c74"
+      ]
+    },
+    {
+      "id": "32d2",
+      "name": "asfsdaf",
+      "date": "2024-08-08",
+      "time": "22:42",
+      "location": "dafdsfdsafsa",
+      "description": "fsgdsgfdgfds",
+      "members": [
+        "8c74",
+        "8c75"
+      ]
+    }
+  ],
+  "authentication": [
+    {
+      "id": "8c74",
+      "name": "afdsafds",
+      "username": "safsdaf",
+      "password": "afdsafd",
+      "role": "user"
+    },
+    {
+      "id": "8c75",
+      "name": "afdsafds",
+      "username": "safsdaf",
+      "password": "afdsafd",
+      "role": "admin"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "b8c1",
+      "eventId": "8ae4",
+      "feedback": "sdafdsafdsafd"
+    },
+    {
+      "id": "4747",
+      "eventId": "8ae4",
+      "feedback": "sdafdsafdsafd"
+    }
+  ]
+}
